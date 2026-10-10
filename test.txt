@@ -1,2 +1,4 @@
 # laboratorio git
 mi primer commit
+
+Mi segundo commit
